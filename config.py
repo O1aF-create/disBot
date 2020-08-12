@@ -1,4 +1,4 @@
-TOKEN = 'NzQyMzI3NzYzNzQ2MTYwNjUw.XzEgmg.HTiHC3NSBHQ40Ym_-KBcbeanb0I'
+TOKEN = 'NzQyMzI3NzYzNzQ2MTYwNjUw.XzEgmg.0qb7-3lmTahDE1Zd9mx6JqOYqcI'
 
 POST_ID = 742810925223903283 # post id to read reactions from
 
