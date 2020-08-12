@@ -1,0 +1,2 @@
+# disBot
+Bot for discord
